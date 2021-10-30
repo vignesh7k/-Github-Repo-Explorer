@@ -1,0 +1,5 @@
+1: Adding: Alpha IAM policy generator
+2: Update deploy/delete/dependencies
+3: docs: fix path to logo
+4: Release taskcat [0.9.26]
+5: Fix typos in documentation

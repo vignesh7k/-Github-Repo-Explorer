@@ -1,0 +1,25 @@
+1: Blogs referencing Taskcat are out-of-date and no longer work.
+2: Ability to use mulitple .taskcat.yml from scopes
+3: [Feature] Multi-partition support for AMIUpdater (update-ami)
+4: taskcat test run -i TestTemplate.yaml -> ConstructorError could not determine a constructor for the tag '!Ref'
+5: taskcat --profile $AWS_PROFILE test clean -> Failed to fetch stacks for region us-east-1 using profile default <class 'botocore.exceptions.NoCredentialsError'> Unable to locate credentials
+6: CFNTest doesn't delete taskcat auto bucket where it uploads the project files and templates to
+7: Add example on using custom stack names using CFNTest class
+8: [Feature Request] Add ability to Unit Test Templates 
+9: e2e tests fail in codebuild, but work locally 
+10: [Feature Request] Validating AllowedPattern regex
+11: [Error Handling] Better messaging around cross-partition tests that are certain to fail
+12: [Feature Request] Explicit role_arn along aide role_name
+13: Taskcat lint with custom cfn-lint rules
+14: Latest TaskCat docker image fail after lint
+15: Stack Overflow on processing Nested Stack
+16: Package subcommand appears to not implicitly honor config file settings
+17: Feature: Exclude certain files/folders from uploading to S3
+18: Linter failed for AWS::CodeCommit::Repository.RepositoryTrigger with unknown error
+19: Parameter sectioon is not expected, how are parameters passed
+20: Unquoted Numerical Default Parameter - TypeError expected string or bytes-like object
+21: changelog should contain contributor and pr link
+22: PROPOSAL - per-test/per-region parameters
+23: URL matching fails with optional region and missing project name
+24: Taskcat not able to access S3 buckets
+25: DependsOn ordering in tests
